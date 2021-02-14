@@ -1,0 +1,8 @@
+# main links links
+main:
+  - title: "Eventi"
+    url: /archivio-eventi
+  - title: "Materiale"
+    url: /archivio-materiale/
+  - title: "About"
+    url: /about
