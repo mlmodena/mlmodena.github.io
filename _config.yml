@@ -97,6 +97,9 @@ author:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "/telegram"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:mlmodena.info@gmail.com"
 
 
 # Site Footer
@@ -111,6 +114,9 @@ footer:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "/telegram"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:mlmodena.info@gmail.com"
 
 
 # Reading Files
