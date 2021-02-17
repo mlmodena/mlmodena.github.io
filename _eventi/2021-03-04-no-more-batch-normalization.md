@@ -1,6 +1,6 @@
 ---
 title: "No more batch normalization?"
-excerpt: "DeepMind ha recentemente presentato le Normalization-Free Networks, delle CNN che non richiedono l'uso di Batch Normalization. Quali sono i vantaggi (e gli svantaggi)?"
+excerpt: "DeepMind ha recentemente presentato le Normalization-Free Networks, delle CNN che non richiedono l'uso di Batch Normalization. Quali sono i vantaggi?"
 read_time: false
 related: false
 show_date: true
