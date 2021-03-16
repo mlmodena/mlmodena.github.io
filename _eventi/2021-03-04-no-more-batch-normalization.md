@@ -20,9 +20,6 @@ Recentemente sono state presentate da Google [DeepMind](https://deepmind.com/) l
 In questo talk tratteremo prima i vantaggi e gli svantaggi di Batch Normalization, per poi passare all'analisi delle nuove soluzioni proposte e delle possibili direzioni future che si prefigurano in questo campo.
 
 
-[➕ Iscriviti all'evento](http://mlmodena0321.eventbrite.it/){: .btn .btn--primary .btn--large .btn--yellow}
-
-
 
 ## A proposito dei relatori...
 
