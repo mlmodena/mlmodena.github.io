@@ -1,5 +1,5 @@
 ---
-title: "Sustainable AI through Continual Learning"
+title: "Apprendimento Automatico Continuo per un'Intelligenza Artificiale Sostenibile"
 excerpt: "Come posso aggiornare il mio modello quando ho nuovi dati a disposizione? Vincenzo Lomonaco parlerà di Continual Learning per una AI sostenibile"
 read_time: false
 related: false
@@ -10,6 +10,13 @@ author_profile: false
 tags:
   - Continual learning
 ---
+
+In questo talk, esploremo insieme il concetto di apprendimento automatico continuo, le sue motivazioni fondanti e perché esso rappresenta una tecnologia abilitante per lo sviluppo di un'Intelligenza Artificiale efficiente, scalabile e sostenibile.
+
+
+**Abstract completo in inglese:**
+
+
 Humans have the extraordinary ability to learn continually from experience. 
 Not only we can apply previously learned knowledge and skills to new situations, 
 we can also use these as the foundation for later learning, constantly and efficiently 
@@ -38,4 +45,4 @@ sustainable vision of Artificial Intelligence and its applications.
 
 ## A proposito dei relatori...
 
-**Vincenzo Lomonaco** è Assistant Professor presso l'Università di Pisa.
+**Vincenzo Lomonaco** è AI & Continual Learning Assistant Professor @ Unipi \| Co-Founding President and Lab Director @ ContinualAI \| Board Member @ AI for People \| Co-Host @ Smarter Podcast.
