@@ -20,7 +20,13 @@ Recentemente sono state presentate da Google [DeepMind](https://deepmind.com/) l
 In questo talk tratteremo prima i vantaggi e gli svantaggi di Batch Normalization, per poi passare all'analisi delle nuove soluzioni proposte e delle possibili direzioni future che si prefigurano in questo campo.
 
 
-
-## A proposito dei relatori...
-
 **Mattia Verasani** è ML Engineer in Tetra Pak ed è uno dei fondatori di ML Modena.
+
+
+# Video dell'evento
+
+
+Potete trovare le **slide** che sono state presentate al seguente [link](https://github.com/mlmodena/meetups/blob/main/2021-03-04-no-more-batch-normalization.pdf)
+
+
+{% include video id="gf7LTPtkQoM" provider="youtube" %}

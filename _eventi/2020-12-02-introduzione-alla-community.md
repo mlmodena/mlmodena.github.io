@@ -17,7 +17,14 @@ Sei un ricercatore, uno studente o un appassionato della materia?
 
 O sei semplicemente curioso di capire come le nuove tecnologie e l’intelligenza artificiale stiano plasmando i prodotti che escono dalle nostre aziende, cambiando il modo di lavorare, rivoluzionando le nostre conoscenze e il nostro modo di vivere?
 
-**Unisciti alla community per il nostro primo incontro.. online!**
-**Incontriamoci virtualmente Mercoledì 2 Dicembre**
+
+# Video dell'evento
+
+## Video introduttivo
+{% include video id="mklrgw0MzLU" provider="youtube" %}
+
+## Piacere AI
+{% include video id="4QoELTZknOA" provider="youtube" %}
+
 
 <!-- [➕ Iscriviti all'evento](#link){: .btn .btn--primary .btn--large} -->

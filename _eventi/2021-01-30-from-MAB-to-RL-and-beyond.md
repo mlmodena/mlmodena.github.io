@@ -25,4 +25,11 @@ In questo talk presenteremo un primo modello di decisione sequenziale, detto Mul
 **Alberto Maria Metelli** è assegnista Post Doc presso il Dipartimento di Elettronica, Informazione e Bioingegneria del Politecnico di Milano. E’ cofondatore e AI specialist presso MLcube, una startup innovativa del Politecnico di Milano. Ha interessi di ricerca nell’ambito dell’intelligenza artificiale, con particolare riferimento al reinforcement learning.
 
 
+# Video dell'evento
+
+Potete anche trovare le **slide** che sono state presentate al seguente [link](https://github.com/mlmodena/meetups/blob/main/01-2021.pdf)
+
+
+{% include video id="NA0gg_9yQog" provider="youtube" %}
+
 <!-- [➕ Iscriviti all'evento](#link){: .btn .btn--primary .btn--large} -->

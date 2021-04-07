@@ -39,10 +39,11 @@ sustainable vision of Artificial Intelligence and its applications.
 
 **Nota:** L'evento si terrà in italiano
 
-[➕ Iscriviti all'evento](https://mlmodena-03bis21.eventbrite.it/){: .btn .btn--primary .btn--large .btn--yellow}
-
-
-
-## A proposito dei relatori...
+<!-- [➕ Iscriviti all'evento](https://mlmodena-03bis21.eventbrite.it/){: .btn .btn--primary .btn--large .btn--yellow} -->
 
 **Vincenzo Lomonaco** è AI & Continual Learning Assistant Professor @ Unipi \| Co-Founding President and Lab Director @ ContinualAI \| Board Member @ AI for People \| Co-Host @ Smarter Podcast.
+
+
+# Video dell'evento
+
+{% include video id="GbwAJTqndz4" provider="youtube" %}
