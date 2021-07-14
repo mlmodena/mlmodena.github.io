@@ -14,7 +14,7 @@ tags:
 What's the role of traditional marketing, what data do we have access in non digital ready companies, what are main suppliers and how ML could support to take marketing to the next level...
 
 
-[➕ Iscriviti all'evento](https://mlmodena0621.eventbrite.it){: .btn .btn--primary .btn--large .btn--yellow}
+{% include video id="x4xp_L14X3Y" provider="youtube" %}
 
 
 **Gisele Gurgel** 30 years of global experience in marketing across different continents, such as Americas, Africa and Europe. Main area of expertise is strategy and business transformation. Today responsible for Business Insights & analytics team in global marketing.
