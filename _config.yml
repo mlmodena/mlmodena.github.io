@@ -88,6 +88,9 @@ author:
   bio              : "La community di Machine Learning a Modena"
   location         : "Modena"
   links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCRPDGO4UQk-rdhjSgG_Q0Tg"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://it-it.facebook.com/pg/mlmodena.official/"
