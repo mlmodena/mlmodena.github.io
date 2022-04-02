@@ -18,8 +18,6 @@ Monitor and manage plantations detecting and monitoring physical characteristics
 
 I am a student of Artificial intelligence engineering at the University of Modena and Reggio Emilia and I’m doing my curricular internship in “Abacos Group” Europe's leading player in software solutions for land resource management and control with a primary focus on precision agriculture and environmental sustainability.
 
-[➕ Iscriviti all'evento](https://mlmodena-0322.eventbrite.it){: .btn .btn--primary .btn--large}
-
 ## Video dell'evento
 
-
+{% include video id="pIcUhgDJ2Ag" provider="youtube" %}
