@@ -20,8 +20,6 @@ After giving a brief introduction to DRL we will present robo-gym, an open-sourc
 
 Dopo essersi laureato in Ingegneria Meccatronica all’Università degli Studi di Modena e Reggio Emilia ha approfondito le sue conoscenze nel campo dell’intelligenza artificiale per applicarle al controllo di robot. I suoi interessi di ricerca sono lo sviluppo di sistemi per il controllo di robot volti ad automatizzare operazioni complesse in campo industriale.
 
-[➕ Iscriviti all'evento](https://mlmodena-1221.eventbrite.it/){: .btn .btn--primary .btn--large}
-
 ## Video dell'evento
 
 {% include video id="FpytSuRhFwY" provider="youtube" %}
