@@ -11,23 +11,20 @@ tags:
   - MLOps
 ---
 
-MLOps is a discipline focused on the deployment, testing, monitoring, and automation of ML systems in production. Machine Learning Engineering professionals use tools for continuous improvement and evaluation of deployed models. They work with (or can be) Data Scientists, who develop models, to enable velocity and rigor in deploying the best performing models.
+MLOps (Machine Learning Operations) si occupa di implementazione, test, monitoraggio e automazione di sistemi ML in produzione. 
+Gli MLOps Engineer utilizzano strumenti per il "continuous improvement and evaluation" dei modelli di Machine Learning distribuiti. Lavorano in sinergia con i con Data Scientist, che sviluppano modelli, per consentire velocità e automazione nell'implementazione dei modelli più performanti.
 
-We'll talk about:
+Parleremo di:
 
-- MLOps Architectures
-
-- Containers and Kubernetes
-
+- Architetture MLOps
+- Virtual Container e Kubernetes
 - KubeFlow Pipelines - KFP
-
 - TensorFlow Extended - TFX
+- MLOps su Vertex AI
 
-- MLOps on Vertex AI
+**[Maurizio Ipsale](https://www.linkedin.com/in/maurizioipsale/)**: Google Cloud Senior Trainer
 
-**Maurizio Ipsale**: Google Cloud Senior Trainer
-
-Maurizio is a Google Cloud Authorized Trainer and AWS Champion Authorized Instructor, mainly focused on Machine Learning, Cloud and Data Technologies, Service Providers and Enterprises. He is also a Technical Trainer and Professional Services Engineer, Juniper Networks Certified Instructor (JNCI), Certified Cisco Systems Instructor (CCSI), Huawei Certified system Instructor (HCSI).
+Maurizio è un Google Cloud Authorized Trainer nonché AWS Champion Authorized Instructor, focalizzato principalmente su tecnologie di Machine Learning, Cloud e Big Data. Vive in Italia ma lavora a Londra, presso la Datatonic Academy, Google Cloud Partner che ha vinto nel 2021 il premio di Partner of the Year for Machine Learning. 
 
 ## Iscrizioni
 
