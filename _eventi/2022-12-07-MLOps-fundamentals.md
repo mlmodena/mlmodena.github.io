@@ -1,5 +1,5 @@
 ---
-title: "MLOps Foundamentals"
+title: "MLOps Fundamentals"
 excerpt: "What is MLOps and how these tools can help the Data Scientists?"
 read_time: false
 related: false
