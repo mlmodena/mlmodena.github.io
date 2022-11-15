@@ -12,7 +12,7 @@ tags:
 ---
 
 MLOps (Machine Learning Operations) si occupa di implementazione, test, monitoraggio e automazione di sistemi ML in produzione. 
-Gli MLOps Engineer utilizzano strumenti per il "continuous improvement and evaluation" dei modelli di Machine Learning distribuiti. Lavorano in sinergia con i con Data Scientist, che sviluppano modelli, per consentire velocità e automazione nell'implementazione dei modelli più performanti.
+Gli MLOps Engineer utilizzano strumenti per il "continuous improvement and evaluation" dei modelli di Machine Learning distribuiti. Lavorano in sinergia con i Data Scientist, che sviluppano modelli, per consentire velocità e automazione nell'implementazione dei modelli più performanti.
 
 Parleremo di:
 
