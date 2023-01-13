@@ -40,9 +40,9 @@ partners:
   - image_url: https://conoscerelinux.org/
     image_path: /assets/images/logos/conoscerelinux.png
     alt: Conoscere Linux
-  - image_url: https://www.comune.modena.it/makeitmodena
-    image_path: /assets/images/logos/makeitmodena.png
-    alt: Make it Modena
+  - image_url: https://www.unimore.it/
+    image_path: /assets/images/logos/unimore.png
+    alt: Università degli Studi di Modena e Reggio Emilia
 ---
 
 
@@ -50,7 +50,13 @@ partners:
 # EXECUTIVE BOARD
 {: .text-center}
 
-Siamo professionisti che operano in questo territorio e vivono da anni il mondo delle community. Crediamo fortemente nel valore che nasce dal libero scambio di idee.
+Siamo la community di Modena dedicata ai temi dell'Intelligenza Artificiale.
+
+Il nostro centro è qui a Modena. Un territorio che ha dimostrato di saper essere culla di tante eccellenze, sempre nel segno dell'innovazione e del saper lavorare insieme.
+
+La partecipazione ai nostri eventi è gratuita e aperta a tutti: professionisti, amministratori, docenti, ricercatori, studenti, appassionati, curiosi.
+
+ML Modena è stata creata da professionisti che lavorano in questa zona e vivono da anni il mondo delle community. Individui che credono fortemente nel valore che nasce dal libero scambio di idee.
 
 {% include feature_row class="round compact" image_style="max-height: 225px; max-width: 225px" %}
 
