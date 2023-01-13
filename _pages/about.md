@@ -52,8 +52,6 @@ partners:
 
 Siamo la community di Modena dedicata ai temi dell'Intelligenza Artificiale.
 
-Il nostro centro è qui a Modena. Un territorio che ha dimostrato di saper essere culla di tante eccellenze, sempre nel segno dell'innovazione e del saper lavorare insieme.
-
 La partecipazione ai nostri eventi è gratuita e aperta a tutti: professionisti, amministratori, docenti, ricercatori, studenti, appassionati, curiosi.
 
 ML Modena è stata creata da professionisti che lavorano in questa zona e vivono da anni il mondo delle community. Individui che credono fortemente nel valore che nasce dal libero scambio di idee.
