@@ -19,10 +19,10 @@ This presentation aims to provide participants with a practical understanding of
 
 Giuseppe Fiameni is a Solution Architect and Data Scientist at NVIDIA where he oversees the NVIDIA AI Technology Center in Italy, a collaboration among NVIDIA, CINI and CINECA to accelerate academic research in the field of Artificial Intelligence through collaboration projects. He has been working as HPC specialist at CINECA, the largest HPC facility in Italy, for more than 14 years providing support for large-scale data analytics workloads. 
 
-## Iscrizioni
-
-[➕ Iscriviti all'evento](https://mlmodena-0523.eventbrite.it){: .btn .btn--primary .btn--large}
-
 ## Video dell'evento
 
 {% include video id="fp57VeMW3zE" provider="youtube" %}
+
+## Slides
+
+- [Qui](https://github.com/mlmodena/meetups/blob/main/Modena%20ML%202023_distilled.pdf)
