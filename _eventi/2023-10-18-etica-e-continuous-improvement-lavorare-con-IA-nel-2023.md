@@ -36,6 +36,7 @@ Noi siamo pronti a cavalcare questo nuovo processo di innovazione, e tu?
 
 
 **Federico Scaltriti**: AI Software Engineer nel team di OT Consulting
+
 **Davide Bedogni**: Project Manager e Team Leader nel settore della Digital Transformation.
 
 Si occupano rispettivamente dello sviluppo e del management del prodotto AI-Know, che semplifica e accelera i processi di rilascio e gestione dei modelli di AI.
