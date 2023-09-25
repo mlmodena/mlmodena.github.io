@@ -45,7 +45,7 @@ Gli interessi di Federico si concentrano verso il NLP, mentre Davide è orientat
 
 ## Iscrizioni
 
-[➕ Iscriviti all'evento](https://mlmodena-1018.eventbrite.it){: .btn .btn--primary .btn--large}
+[➕ Iscriviti all'evento](https://mlmodena-1023.eventbrite.it){: .btn .btn--primary .btn--large}
 
 ## Video dell'evento
 
