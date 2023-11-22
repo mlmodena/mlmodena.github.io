@@ -43,10 +43,6 @@ Si occupano rispettivamente dello sviluppo e del management del prodotto AI-Know
 
 Gli interessi di Federico si concentrano verso il NLP, mentre Davide è orientato verso l'evoluzione delle nuove tecnologie in ambito AI e della loro integrazione in contesti business.
 
-## Iscrizioni
-
-[➕ Iscriviti all'evento](https://mlmodena-1023.eventbrite.it){: .btn .btn--primary .btn--large}
-
 ## Video dell'evento
 
 {% include video id="Ou1rhObJqm4" provider="youtube" %}
