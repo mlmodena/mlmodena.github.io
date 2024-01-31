@@ -19,10 +19,6 @@ Shape analysis and 3D vision pose new challenges that are non-existent in image 
 
 Emanuele Rodolà is Professor of CS at Sapienza University of Rome, where he leads the GLADIA group of Geometry, Learning and Applied AI, funded by an ERC Grant and a Google Award. Previously, he held positions at USI Lugano, TU Munich, and the University of Tokyo. His research interests lie at the intersection of geometry processing, graph / geometric deep learning, applied AI and computer vision, and has published more than 100 papers in these areas.
 
-## Iscrizioni
-
-[➕ Iscriviti all'evento](https://mlmodena-1022.eventbrite.it){: .btn .btn--primary .btn--large}
-
 ## Video dell'evento
 
 {% include video id="G2xr0SxVY-E" provider="youtube" %}

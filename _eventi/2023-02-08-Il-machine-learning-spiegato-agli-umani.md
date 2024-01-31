@@ -23,10 +23,6 @@ Questa sessione per principianti ti introdurrà alle basi del Machine Learning. 
 
 Paolo Perrotta è l'autore di "Metaprogramming Ruby" e "Programming Machine Learning". Ha oltre vent'anni di esperienza come sviluppatore di software, in campi che vanno dall'embedded ai videogiochi e le applicazioni web. Vive a Bologna.
 
-## Iscrizioni
-
-[➕ Iscriviti all'evento](https://mlmodena-0223.eventbrite.it){: .btn .btn--primary .btn--large}
-
 ## Video dell'evento
 
 {% include video id="DPU_vSPtIpM" provider="youtube" %}

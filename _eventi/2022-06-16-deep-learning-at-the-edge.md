@@ -21,10 +21,6 @@ La seconda parte, più teorica, introdurrà 3 tecniche per ottimizare l'inferenc
 
 Ho ottenuto il mio PhD in Computer Engineering @ UniMoRe nel 2017 sotto la supervisione della prof. Rita Cucchiara e del prof. Simone Calderara. Ho pubblicato articoli in conferenze top-ranked e ho vinto due best papers award per i miei studi. Nel 2015 sono stato assistende di ricerca a Duke University e ho lavorato per prof. Tomasi. Attualmente lavoro presso Deep Vision consulting e il mio focus e nell'applicare tecniche di Deep Learning per risolvere problemi di Computer Vision. Di recente, sono stato menzionato come outstanding reviewer CVPR 19, 21 e ECCV 20.
 
-## Iscrizioni
-
-[➕ Iscriviti all'evento](https://mlmodena-0622.eventbrite.it){: .btn .btn--primary .btn--large}
-
 ## Video dell'evento
 
 {% include video id="JROZ4ZWQb2k" provider="youtube" %}

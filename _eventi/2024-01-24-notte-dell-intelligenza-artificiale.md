@@ -20,11 +20,8 @@ Un evento **totalmente gratuito** per incontrarci, fare networking e immergerci 
 Non mancheranno **momenti divertenti e giochi per facilitare l'interazione** e stimolare la creatività. per facilitare l'interazione. Ad esempio, hai le nostre carte collezionabili? Porta i tuoi doppioni per fare qualche scambio!
 
 
-## Iscrizioni
+## Com'è andata?
 
-[➕ Iscriviti all'evento](https://mlmodena-0124.eventbrite.it/){: .btn .btn--primary .btn--large}
+L'evento è stato un successo! Hanno partecipato in 230, con un drop che ha sfiorato il 30%.
 
-
-
-
-
+<img src="/assets/images/notte-ai-24.png">
