@@ -1,6 +1,6 @@
 ---
 title: "Oltre i Limiti della Guida Autonoma: Come Guidare Autonomamente una Macchina da Corsa a oltre 270 KPH"
-excerpt: "Deep Vision will take you on a broad-spectrum journey through 3D reconstruction technologies"
+excerpt: "Scopriamo come far guidare una macchina da corsa Dallara"
 read_time: false
 related: false
 show_date: true
