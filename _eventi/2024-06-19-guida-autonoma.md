@@ -25,10 +25,6 @@ In questa presentazione, condivideremo la l'esperienza del team nelle competizio
 
 **Davide Malvezzi** è uno scienziato informatico specializzato in sistemi embedded, percezione e ingegneria del software. Ha conseguito una laurea triennale e una laurea magistrale in Informatica presso l'Università di Modena e Reggio Emilia. Dopo la laurea, ha lavorato per diverse aziende del territorio, concentrandosi sullo sviluppo di ASIC e sulla ricostruzione 3D da immagini. Dal 2023, lavora come Perception Engineer nel campo del racing autonomo per l'Indy Autonomous Challenge e la Abu Dhabi Racing League presso Hipert Lab.
 
-## Iscrizioni
-
-[➕ Iscriviti all'evento](https://mlmodena-0624.eventbrite.it){: .btn .btn--primary .btn--large}
-
 ## Materiale
 
 - Per ora nulla
