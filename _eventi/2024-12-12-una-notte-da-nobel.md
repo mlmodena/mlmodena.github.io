@@ -25,15 +25,6 @@ In questo talk, esploreremo non solo i progressi tecnologici, ma anche il signif
 
 **Mattia Verasani**: è l'AI Specialist di Tetra Pak e uno dei fondatori di ML Modena.
 
-
-## Iscrizioni
-
-[➕ Iscriviti all'evento](https://mlmodena-1224.eventbrite.it/){: .btn .btn--primary .btn--large}
-
 ## Materiale
 
-- Per ora nulla
-
-## Video dell'evento
-
-{% include video id="ioqrNnrCxpg" provider="youtube" %}
+- Purtroppo, per problemi tecnici, non siamo riusciti a registrare il video di questo evento.
