@@ -7,6 +7,7 @@ show_date: true
 share: true
 comments: false
 author_profile: false
+toc: true
 tags:
   - Deep Reinforcement Learning
   - Robotics

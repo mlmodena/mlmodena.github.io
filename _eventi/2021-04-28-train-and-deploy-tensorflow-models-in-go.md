@@ -7,6 +7,7 @@ show_date: true
 share: true
 comments: false
 author_profile: false
+toc: true
 tags:
   - Tensorflow
   - Go
@@ -20,7 +21,9 @@ TensorFlow, infatti, ha una C API che viene usata per generare language bindings
 
 In questo talk saranno introdotti i Go bindings per TensorFlow, le loro limitazioni e come la libreria tfgo ne semplifica l'uso. Infinite, grazie alla flessibilità del formato SavedModel vedremo come poter fare incremental learning... in Go!
 
-{% include video id="SI0J9JBrH-s" provider="youtube" %}
-
 **Paolo Galeone** *{Tech\|ML} Lead @ Zuru Tech Italy.*
 Da sempre appassionato di informatica, Paolo Galeone sviluppa software da oltre un decennio. Dopo una laurea magistrale in ingegneria informatica, si specializza facendo ricerca nel laboratorio di visione artificiale dell'Università di Bologna. In seguito, diventa team leader del gruppo di Machine Learning a Zuru Tech Italy dove svolge anche il ruolo di techical leader per l'intero progetto. Technical blogger ([https://pgaleone.eu/](https://pgaleone.eu/)), open source supporter ([https://github.com/galeone](https://github.com/galeone)), smanettone
+
+## Video dell'evento
+
+{% include video id="SI0J9JBrH-s" provider="youtube" %}

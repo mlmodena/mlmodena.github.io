@@ -6,6 +6,7 @@ related: false
 show_date: true
 share: true
 comments: false
+toc: true
 author_profile: false
 tags:
   - Continuous Improvement

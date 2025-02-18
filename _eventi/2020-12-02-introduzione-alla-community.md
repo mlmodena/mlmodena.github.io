@@ -5,6 +5,7 @@ read_time: false
 related: false
 show_date: true
 share: true
+toc: true
 comments: false
 author_profile: false
 tags:

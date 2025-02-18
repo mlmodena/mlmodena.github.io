@@ -7,6 +7,7 @@ show_date: true
 share: true
 comments: false
 author_profile: false
+toc: true
 tags:
   - Continual learning
 ---
@@ -36,10 +37,7 @@ important relationships with the fields of Neuroscience and Robotics.
 Finally, we will discuss the broader impact of Continual Learning in the context of a more 
 sustainable vision of Artificial Intelligence and its applications.
 
-
 **Nota:** L'evento si terrà in italiano
-
-<!-- [➕ Iscriviti all'evento](https://mlmodena-03bis21.eventbrite.it/){: .btn .btn--primary .btn--large .btn--yellow} -->
 
 **Vincenzo Lomonaco** è AI & Continual Learning Assistant Professor @ Unipi \| Co-Founding President and Lab Director @ ContinualAI \| Board Member @ AI for People \| Co-Host @ Smarter Podcast.
 
