@@ -39,6 +39,8 @@ Per il resto dell'evento, networking libero e interazione con gli espositori con
 - Associazione Il COSMo
 - Associazione GAGBA
 - Planetario di Modena
+
+
 E...**Giorgia Franchini** e il suo team di ricerca (Unimore)!
 
 Ad accompagnare il networking, un **apertivo offerto** dall'Università di Modena.
