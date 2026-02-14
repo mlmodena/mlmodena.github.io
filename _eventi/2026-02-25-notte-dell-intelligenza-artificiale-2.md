@@ -30,6 +30,7 @@ Ad apertura della serata, oltre al nostro messaggio di benvenuto, una sessione s
 Per il resto dell'evento, networking libero e interazione con gli espositori confermati:
 
 - Dipartimento FIM Edificio di Matematica
+- BlackHoleWeather (FIM)
 - DIEF (Dipartimento di Ingegneria "Enzo Ferrari")
 - DISMI (Dipartimento di Science e Metodi dell'Ingegneria)
 - Deep Vision Consulting: computer vision and AI for industrial-grade solutions
