@@ -37,6 +37,7 @@ Per il resto dell'evento, networking libero e interazione con gli espositori con
 - Hipert SRL
 - GoatAI
 - Vision-E
+- IT4LIA AI Factory (Cineca)
 - Associazione Il COSMo
 - Associazione GAGBA
 - Planetario di Modena
