@@ -47,8 +47,7 @@ E...**Giorgia Franchini** e il suo team di ricerca (Unimore)!
 
 Ad accompagnare il networking, un **apertivo offerto** dall'Università di Modena.
 
+## Materiale
 
-## Iscrizioni
-
-[➕ Iscriviti all'evento](https://mlmodena-0226.eventbrite.it/){: .btn .btn--primary .btn--large}
+[Slides della sessione di Davide Borghi](https://github.com/mlmodena/meetups/blob/main/Space-Born%20Intelligence.pdf)
 
