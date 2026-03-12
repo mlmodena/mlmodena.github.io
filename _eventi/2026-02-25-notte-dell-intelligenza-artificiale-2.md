@@ -20,12 +20,9 @@ Un evento **totalmente gratuito** per incontrarci, fare networking e immergerci 
 
 Se hai partecipato alla Notte dell'Intelligenza Artificiale di due anni fa, conosci già il format!
 
-
-
 Ad apertura della serata, oltre al nostro messaggio di benvenuto, una sessione speciale di **Davide Borghi**, presidente dell'associazione COSMo, manager in Tetra Pak e divulgatore:
 
 > **Space-Born Intelligence**: L’AI come Motore della Prossima Età Spaziale - Dai data center in orbita al mining degli asteroidi: come l’AI sta ridisegnando il nostro destino nello spazio.
-
 
 Per il resto dell'evento, networking libero e interazione con gli espositori confermati:
 
@@ -41,7 +38,6 @@ Per il resto dell'evento, networking libero e interazione con gli espositori con
 - Associazione Il COSMo
 - Associazione GAGBA
 - Planetario di Modena
-
 
 E...**Giorgia Franchini** e il suo team di ricerca (Unimore)!
 
