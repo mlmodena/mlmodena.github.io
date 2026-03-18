@@ -28,3 +28,7 @@ Al di fuori del lavoro, mi piace mantenermi attivo praticando MTB, nuoto e corsa
 ## Video dell'evento
 
 {% include video id="D8IuAVp86wo" provider="youtube" %}
+
+## Materiale dell'evento
+
+- [Slides](https://github.com/mlmodena/meetups/blob/main/Data_Versioning%20-%20Git%20For%20Your%20Data!.pdf)
