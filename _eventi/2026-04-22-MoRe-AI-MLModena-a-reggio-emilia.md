@@ -67,7 +67,13 @@ La combinazione tra machine learning, visione artificiale e nuove architetture r
 
 Ingegnere Elettronico con PhD in Tecnologie dell'Informazione, da sempre appassionato di startup, tecnologia e innovazione. Attualmente co-fondatore e CEO di Robotizr, startup il cui obiettivo è rendere più intuitiva e semplice l'interazione tra robot industriali e persone all'interno delle fabbriche.
 
-## Iscrizioni
+## Video dell'evento
 
-[➕ Iscriviti all'evento](https://mlmodena-0426.eventbrite.it/){: .btn .btn--primary .btn--large}
+{% include video id="NxxrRIADya8" provider="youtube" %}
+
+## Materiale dell'evento
+
+- [Slides di Marco Bassoli](https://github.com/mlmodena/meetups/blob/main/MoReAI-Marco%20Bassoli.pdf)
+
+
 
