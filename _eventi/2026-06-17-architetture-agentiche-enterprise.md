@@ -27,6 +27,13 @@ Esploreremo i tre pilastri che trasformano un'idea in un asset aziendale:
 Il talk offre una roadmap d’azione strategica per orchestrare sistemi agentici che non siano solo "intelligenti", ma affidabili, governabili e pronti a scalare nel mondo reale.
 
 
+## Il relatore
+
+**Luca Flammia** - AI Architect & Data Scientist
+
+Con un PhD in Fisica alle spalle, Luca Flammia unisce il rigoroso approccio analitico sui sistemi complessi con una solida esperienza nel deployment di modelli di Machine Learning e architetture dati in produzione per contesti Enterprise. Attualmente focalizzato sull'evoluzione verso l'AI Architecture, si specializza nella progettazione di sistemi agentici deterministici, sicuri e conformi ai requisiti aziendali. È docente per Fargin Academy, dove cura la formazione avanzata sull'ingegnerizzazione, sulla mitigazione dei rischi e sull'osservabilità dell'AI generativa nel mondo reale.
+
+
 ## Iscrizioni
 
 [➕ Iscriviti all'evento](https://mlmodena-0626.eventbrite.it/){: .btn .btn--primary .btn--large}
