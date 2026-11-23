@@ -26,3 +26,9 @@ La sua ricerca studia come rendere i modelli di intelligenza artificiale adattab
 ## Iscrizioni
 
 [➕ Iscriviti all'evento](https://mlmodena-1126.eventbrite.it/){: .btn .btn--primary .btn--large}
+
+
+
+## Video dell'evento
+
+{% include video id="HyGB4YLeY6g" provider="youtube" %}
